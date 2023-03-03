@@ -1,2 +1,2 @@
 # sod
-c++ bit manipulation using bitwise operators
+c/c++ bit manipulation using bitwise operators
